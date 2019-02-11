@@ -1,9 +1,1 @@
-This is an apple.
-
-
-
-
-
-
-
-
+apple is red in color.
